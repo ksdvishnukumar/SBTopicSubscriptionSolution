@@ -1,0 +1,15 @@
+Project SBSendTopicConApp
+	References
+		1. System.Configuration
+	Nuget Packages
+		1. Install-Package Newtonsoft.Json
+		2. Install-Package WindowsAzure.ServiceBus
+		3. Install-package Microsoft.WindowsAzure.ConfigurationManager
+		
+
+Project SBReceiveTopicConApp
+	References
+		1. System.Configuration
+	Nuget Packages
+		1. Install-Package WindowsAzure.ServiceBus
+		2. Install-package Microsoft.WindowsAzure.ConfigurationManager

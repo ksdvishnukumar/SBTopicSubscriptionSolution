@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSendTopicConApp", "SBSendTopicConApp\SBSendTopicConApp.csproj", "{7ACAC7C8-88A9-46EE-B77D-5662B759FF88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D0071C4-71CB-4C50-80C1-C291C6C271FE}"
+	ProjectSection(SolutionItems) = preProject
+		Instractions.txt = Instractions.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiveTopicConApp", "SBReceiveTopicConApp\SBReceiveTopicConApp.csproj", "{61D0F2F3-D611-4032-836A-FA37FF35FC46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACAC7C8-88A9-46EE-B77D-5662B759FF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACAC7C8-88A9-46EE-B77D-5662B759FF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACAC7C8-88A9-46EE-B77D-5662B759FF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACAC7C8-88A9-46EE-B77D-5662B759FF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D0F2F3-D611-4032-836A-FA37FF35FC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D0F2F3-D611-4032-836A-FA37FF35FC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D0F2F3-D611-4032-836A-FA37FF35FC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D0F2F3-D611-4032-836A-FA37FF35FC46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AA931A-FAAA-41A9-A194-68C8E645E31D}
+	EndGlobalSection
+EndGlobal
